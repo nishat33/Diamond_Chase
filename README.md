@@ -1,5 +1,7 @@
-Dimond Chase is a two-player strategy game played between the AI and the user, built using Python and Pygame
-#Rule of the Game:
+Dimond Chase is a two-player strategy game played between the AI and the user, built using Python and Pygame.
+
+
+# Rule of the Game:
 1. The board is of diamond shape
 2. Each player starts with 6 beads
 3. Beads can only be placed in the interecting point
